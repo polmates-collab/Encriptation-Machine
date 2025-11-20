@@ -1,0 +1,7 @@
+﻿  encriptador_cesar.cpp
+  encriptador_rot13.cpp
+  encriptador_xor.cpp
+  gestor_claves.cpp
+  main.cpp
+  Generating Code...
+  Proyecto Encriptacion.vcxproj -> C:\Users\PolMatesClar\source\repos\Proyecto Encriptacion\x64\Debug\Proyecto Encriptacion.exe
